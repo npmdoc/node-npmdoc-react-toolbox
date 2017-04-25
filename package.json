@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "react-toolbox",
-    "description": "api documentation for [react-toolbox (v1.3.4)](http://www.react-toolbox.com) [![npm package](https://img.shields.io/npm/v/npmdoc-react-toolbox.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-toolbox) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-toolbox.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-toolbox)",
+    "description": "#### basic api documentation for  [react-toolbox (v1.3.4)](http://www.react-toolbox.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-toolbox.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-toolbox) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-toolbox.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-toolbox)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "react-toolbox": "*",

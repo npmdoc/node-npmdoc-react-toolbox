@@ -1,9 +1,14 @@
-# api documentation for  [react-toolbox (v1.3.4)](http://www.react-toolbox.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-toolbox.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-toolbox) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-toolbox.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-toolbox)
+# npmdoc-react-toolbox
+
+#### basic api documentation for  [react-toolbox (v1.3.4)](http://www.react-toolbox.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-toolbox.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-toolbox) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-toolbox.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-toolbox)
+
 #### A set of React components implementing Google's Material Design specification with the power of CSS Modules.
 
-[![NPM](https://nodei.co/npm/react-toolbox.png?downloads=true)](https://www.npmjs.com/package/react-toolbox)
+[![NPM](https://nodei.co/npm/react-toolbox.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-toolbox)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-react-toolbox/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-react-toolbox%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-toolbox/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-react-toolbox/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-react-toolbox/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-react-toolbox/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-toolbox/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-react-toolbox/build/screenCapture.npmPackageListing.svg)
 
@@ -21,18 +26,15 @@
         "url": "http://github.com/react-toolbox"
     },
     "bugs": {
-        "url": "https://github.com/react-toolbox/react-toolbox/issues",
-        "email": "issues@react-toolbox.com"
+        "url": "https://github.com/react-toolbox/react-toolbox/issues"
     },
     "contributors": [
         {
             "name": "Javi Jimenez Villar",
-            "email": "javi.jimenez.villar@gmail.com",
             "url": "http://soyjavi.com/"
         },
         {
             "name": "Javi Velasco Arjona",
-            "email": "javier.velasco86@gmail.com",
             "url": "http://javivelasco.com/"
         }
     ],
@@ -116,12 +118,10 @@
     "main": "./lib",
     "maintainers": [
         {
-            "name": "javivelasco",
-            "email": "javier.velasco86@gmail.com"
+            "name": "javivelasco"
         },
         {
-            "name": "soyjavi",
-            "email": "javi.jimenez.villar@gmail.com"
+            "name": "soyjavi"
         }
     ],
     "name": "react-toolbox",
@@ -132,7 +132,6 @@
         "react-dom": "^0.14.0 || ~15.4.0"
     },
     "pre-commit": "lint:staged",
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/react-toolbox/react-toolbox.git"
@@ -155,19 +154,10 @@
         "test:watch": "cross-env NODE_ENV=test karma start --no-single-run",
         "tsd": "cpx \"./components/**/*.d.ts\" ./lib"
     },
-    "version": "1.3.4"
+    "version": "1.3.4",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module react-toolbox](#apidoc.module.react-toolbox)
-
-
-
-# <a name="apidoc.module.react-toolbox"></a>[module react-toolbox](#apidoc.module.react-toolbox)
 
 
 
